@@ -1,7 +1,7 @@
 import React from 'react'
 import CreateProduct from './components/CreateProduct'
 import GetAllProduct from './components/GetAllProduct'
-import GetProductById from './components/getProductById'
+import GetProductById from './components/GetProductById'
 import RemoveProductById from './components/RemoveProductById'
 import UpdateProductById from './components/UpdateProductById'
 
